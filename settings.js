@@ -37,7 +37,7 @@ global.APIKeys = {
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
+global.vcardowner = ['6282135830772'] //ur owner number
 global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: VAA OFC" //ur yt chanel name
+global.socialm = "GitHub: vaabot" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bomdy 
-global.owner = ['6281908052908']
-global.ownertag = '6281908052908' //ur tag number
-global.botname = 'Xavior V4' //ur bot name
-global.linkz = "https://youtube.com/c/XaviorOfc-Bot" //your theme url which will be displayed on whatsapp
-global.websitex = "https://Xavior88.github.io" //ur website to be displayed
-global.botscript = 'https://github.com/Xavior88/CheemsBot-MD4' //script link
+global.owner = ['62882003576977']
+global.ownertag = '62882003576977' //ur tag number
+global.botname = 'VaaXzy V4' //ur bot name
+global.linkz = "https://youtube.com/c/Vaa-Ofc" //your theme url which will be displayed on whatsapp
+global.websitex = "https://.github.io" //ur website to be displayed
+global.botscript = 'Buy 30k, Chat owner' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "Dona my crush<3 Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄Dream Guy Dapa" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6281908052908'] //ur premium numbers
+global.premium = ['62882003576977'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
